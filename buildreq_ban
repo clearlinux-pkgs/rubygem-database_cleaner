@@ -1,2 +1,27 @@
 # This file contains build requirements that get picked up but are
 # undesirable. One entry per line, no whitespace.
+rubygem-activerecord-mysql2-adapter
+rubygem-couch_potato
+rubygem-datamapper
+ rubygem-bundler
+  rubygem-json_pure
+  rubygem-activerecord
+  rubygem-datamapper
+  rubygem-dm-migrations
+  rubygem-dm-sqlite-adapter
+  rubygem-mongoid
+  rubygem-tzinfo
+  rubygem-mongoid-tree
+  rubygem-mongo_mapper
+  rubygem-moped
+ rubygem-neo4j-core
+ rubygem-sequel
+ rubygem-guard-rspec
+ rubygem-rspec-rails
+ rubygem-cucumber
+ rubygem-mongo_ext
+ rubygem-bson_ext
+ rubygem-mysql
+ rubygem-mysql2
+ rubygem-pg
+ rubygem-sqlite3
