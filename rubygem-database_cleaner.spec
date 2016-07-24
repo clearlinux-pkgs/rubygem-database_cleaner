@@ -4,7 +4,7 @@
 #
 Name     : rubygem-database_cleaner
 Version  : 1.5.3
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/database_cleaner-1.5.3.gem
 Source0  : https://rubygems.org/downloads/database_cleaner-1.5.3.gem
 Summary  : No detailed summary available
